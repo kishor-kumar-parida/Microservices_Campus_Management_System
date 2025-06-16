@@ -39,8 +39,10 @@ To create the **core data model** and **backend logic** using:
 
 ## 👨‍💻 Contributors
 - Jobin Shery Mathew
-- Kanala Venkata Lakshmi Prasanna
-- Neha Mohanta
-- Mugesh B
+- KANALA VENKATA LAKSHMI PRASANNA
+- Kaveesh Bhat
 - Kishor Kumar Parida
+- Kunal Kanti Saha
 - Mayank Anand
+- Mugesh B
+- Neha Mohanta
